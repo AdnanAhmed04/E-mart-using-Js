@@ -298,13 +298,13 @@ ul {
         background-color: white;
         padding: 5px;
         width: 65%;
-        height: 400px;
+        height: 300px;
     }
 
     .object2 img {
         /* background-color: blue; */
         width: 50%;
-        /* height: 100px; */
+        height: 100px;
         margin-left: 60px;
     }
 
@@ -378,9 +378,17 @@ ul {
         background-color: white;
         padding: 5px;
         width: 65%;
-        height: 400px;
+        height: 300px;
 
     }
+
+    .object3 img {
+        /* background-color: blue; */
+        width: 50%;
+        height: 100px;
+        margin-left: 60px;
+    }
+
 
     #container4 {
         display: flex;
@@ -395,9 +403,17 @@ ul {
         background-color: white;
         padding: 5px;
         width: 65%;
-        height: 400px;
+        height: 300px;
 
     }
+
+    .object4 img {
+        /* background-color: blue; */
+        width: 50%;
+        height: 100px;
+        margin-left: 60px;
+    }
+
 
 
 
