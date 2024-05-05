@@ -339,7 +339,7 @@ object4.forEach(data => {
     btn.classList.add('btn_size');
 
     // Apply styles to the button
-    btn.style.width = '254px';
+    btn.style.width = '100%';
     btn.style.backgroundColor = 'rgb(219, 219, 219)';
     btn.style.borderRadius = '3px';
     btn.style.border = 'none';
